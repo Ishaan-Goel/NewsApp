@@ -1,14 +1,12 @@
 //
-//  NewsAppApp.swift
+//  Hack_NewsApp.swift
 //  NewsApp
-//
 //  Created by Ishaan Goel on 1/3/24.
-//
 
 import SwiftUI
 
 @main
-struct NewsAppApp: App {
+struct Hack_NewsApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
